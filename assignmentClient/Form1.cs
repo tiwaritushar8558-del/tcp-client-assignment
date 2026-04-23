@@ -21,8 +21,10 @@ namespace assignmentClient
                 return;
             }
 
+
             try
             {
+                
                 client = new TcpClient();
                 await client.ConnectAsync(txtIP.Text, int.Parse(txtPort.Text));
 
