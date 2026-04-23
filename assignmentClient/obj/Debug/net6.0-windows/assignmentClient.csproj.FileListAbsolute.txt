@@ -1,0 +1,16 @@
+E:\New folder\assignmentClient\bin\Debug\net6.0-windows\assignmentClient.exe
+E:\New folder\assignmentClient\bin\Debug\net6.0-windows\assignmentClient.deps.json
+E:\New folder\assignmentClient\bin\Debug\net6.0-windows\assignmentClient.runtimeconfig.json
+E:\New folder\assignmentClient\bin\Debug\net6.0-windows\assignmentClient.dll
+E:\New folder\assignmentClient\bin\Debug\net6.0-windows\assignmentClient.pdb
+E:\New folder\assignmentClient\obj\Debug\net6.0-windows\assignmentClient.Form1.resources
+E:\New folder\assignmentClient\obj\Debug\net6.0-windows\assignmentClient.csproj.GenerateResource.cache
+E:\New folder\assignmentClient\obj\Debug\net6.0-windows\assignmentClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\assignmentClient\obj\Debug\net6.0-windows\assignmentClient.AssemblyInfoInputs.cache
+E:\New folder\assignmentClient\obj\Debug\net6.0-windows\assignmentClient.AssemblyInfo.cs
+E:\New folder\assignmentClient\obj\Debug\net6.0-windows\assignmentClient.csproj.CoreCompileInputs.cache
+E:\New folder\assignmentClient\obj\Debug\net6.0-windows\assignmentClient.dll
+E:\New folder\assignmentClient\obj\Debug\net6.0-windows\refint\assignmentClient.dll
+E:\New folder\assignmentClient\obj\Debug\net6.0-windows\assignmentClient.pdb
+E:\New folder\assignmentClient\obj\Debug\net6.0-windows\assignmentClient.genruntimeconfig.cache
+E:\New folder\assignmentClient\obj\Debug\net6.0-windows\ref\assignmentClient.dll
